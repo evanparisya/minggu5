@@ -1,0 +1,9 @@
+body{
+    font-family: fantasy;
+    margin: 20px;
+    background: rgb(153, 217, 239);
+}
+
+h1 {
+    color: rgb(153, 0, 255);
+}
